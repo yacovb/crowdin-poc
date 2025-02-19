@@ -14,10 +14,10 @@ on:
       - '.infrastructure/terraform/aws/accounts/management/us-east-1/ecr/**'
 jobs:
   terraform:
-    uses: Riskified/github-actions-workflows/.github/workflows/terraform-apply-aws-github-oidc.yml@main
+    uses: Riskified/github-actions-workflows/.github/workflows/terraform-apply-aws-github-oidc.yml@upgrade-workflows
     with:
       path: '.infrastructure/terraform/aws/accounts/management/us-east-1/ecr'
-      role_arn: 'role_arn=arn:aws:iam::284309667046:role/github-actions-role'
+      role_arn: 'arn:aws:iam::284309667046:role/github-actions-role'
       args: >
         -var="profile="
     secrets:
