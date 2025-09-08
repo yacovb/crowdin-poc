@@ -14,7 +14,7 @@ on:
       - '.infrastructure/terraform/aws/accounts/management/us-east-1/ecr/**'
 jobs:
   terraform:
-    uses: Riskified/github-actions-workflows/.github/workflows/terraform-apply-aws-github-oidc.yml@upgrade-workflows
+    uses: Riskified/github-actions-workflows/.github/workflows/terraform-apply-aws-github-oidc.yml@main
     with:
       path: '.infrastructure/terraform/aws/accounts/management/us-east-1/ecr'
       role_arn: 'arn:aws:iam::284309667046:role/github-actions-role'
