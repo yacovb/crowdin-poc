@@ -23,6 +23,7 @@
     "message_placeholder": "Type your message here",
     "submit": "Submit"
   },
-  "footer": "© 2024 Crowdin Demo App. All rights reserved."
+  "footer": "© 2024 Crowdin Demo App. All rights reserved.",
+  "new_text": "new text"
 }
 
