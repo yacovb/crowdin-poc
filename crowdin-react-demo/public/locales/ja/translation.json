@@ -1,0 +1,29 @@
+{
+  "app_title": "Crowdin デモアプリ",
+  "welcome": "アプリケーションへようこそ！",
+  "description": "Crowdin と GitHub の統合をテストするシンプルな React アプリケーションです。",
+  "language_selector": "言語を選択:",
+  "features": {
+    "title": "特徴",
+    "sync": "自動翻訳同期",
+    "realtime": "リアルタイム言語の切り替え",
+    "integration": "継続的なローカライズのための GitHub 統合"
+  },
+  "buttons": {
+    "get_started": "はじめよう",
+    "learn_more": "もっと詳しく"
+  },
+  "form": {
+    "title": "お問い合わせフォーム",
+    "name": "名前",
+    "name_placeholder": "名前を入力してください",
+    "email": "Eメールアドレス",
+    "email_placeholder": "メールアドレスを入力してください",
+    "message": "メッセージ",
+    "message_placeholder": "ここにメッセージを入力してください",
+    "submit": "送信"
+  },
+  "footer": "©️ 2024 Crowdinデモアプリ. All rights reserved.",
+  "new_text": "新しいテキスト"
+}
+
