@@ -1,28 +1,28 @@
 {
-  "app_title": "Application Démo Crowdin",
-  "welcome": "Bienvenue dans notre application !",
-  "description": "Ceci est une application React simple pour tester l'intégration de Crowdin avec GitHub.",
-  "language_selector": "Sélectionner la langue :",
+  "app_title": "Crowdin Demo App",
+  "welcome": "Welcome to our application!",
+  "description": "This is a simple React app to test Crowdin integration with GitHub.",
+  "language_selector": "Select Language:",
   "features": {
-    "title": "Fonctionnalités",
-    "sync": "Synchronisation automatique des traductions",
-    "realtime": "Changement de langue en temps réel",
-    "integration": "Intégration GitHub pour une localisation continue"
+    "title": "Features",
+    "sync": "Automatic translation synchronization",
+    "realtime": "Real-time language switching",
+    "integration": "GitHub integration for continuous localization"
   },
   "buttons": {
-    "get_started": "Commencer",
-    "learn_more": "En savoir plus"
+    "get_started": "Get Started",
+    "learn_more": "Learn More"
   },
   "form": {
-    "title": "Formulaire de contact",
-    "name": "Nom",
-    "name_placeholder": "Entrez votre nom",
-    "email": "E-mail",
-    "email_placeholder": "Entrez votre e-mail",
+    "title": "Contact Form",
+    "name": "Name",
+    "name_placeholder": "Enter your name",
+    "email": "Email",
+    "email_placeholder": "Enter your email",
     "message": "Message",
-    "message_placeholder": "Tapez votre message ici",
-    "submit": "Soumettre"
+    "message_placeholder": "Type your message here",
+    "submit": "Submit"
   },
-  "footer": "© 2024 Application Démo Crowdin. Tous droits réservés."
+  "footer": "© 2024 Crowdin Demo App. All rights reserved."
 }
 
