@@ -1,0 +1,6 @@
+project_id: "YOUR_PROJECT_ID_HERE"
+
+files:
+  - source: /public/locales/en/translation.json
+    translation: /public/locales/%two_letters_code%/translation.json
+

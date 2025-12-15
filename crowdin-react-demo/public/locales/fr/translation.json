@@ -1,0 +1,28 @@
+{
+  "app_title": "Application Démo Crowdin",
+  "welcome": "Bienvenue dans notre application !",
+  "description": "Ceci est une application React simple pour tester l'intégration de Crowdin avec GitHub.",
+  "language_selector": "Sélectionner la langue :",
+  "features": {
+    "title": "Fonctionnalités",
+    "sync": "Synchronisation automatique des traductions",
+    "realtime": "Changement de langue en temps réel",
+    "integration": "Intégration GitHub pour une localisation continue"
+  },
+  "buttons": {
+    "get_started": "Commencer",
+    "learn_more": "En savoir plus"
+  },
+  "form": {
+    "title": "Formulaire de contact",
+    "name": "Nom",
+    "name_placeholder": "Entrez votre nom",
+    "email": "E-mail",
+    "email_placeholder": "Entrez votre e-mail",
+    "message": "Message",
+    "message_placeholder": "Tapez votre message ici",
+    "submit": "Soumettre"
+  },
+  "footer": "© 2024 Application Démo Crowdin. Tous droits réservés."
+}
+
