@@ -23,6 +23,7 @@
     "message_placeholder": "Tapez votre message ici",
     "submit": "Soumettre"
   },
-  "footer": "© 2024 Application Démo Crowdin. Tous droits réservés."
+  "footer": "© 2024 Application Démo Crowdin. Tous droits réservés.",
+  "new_text": "new text"
 }
 
