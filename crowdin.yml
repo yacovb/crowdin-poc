@@ -1,0 +1,3 @@
+files:
+  - source: /crowdin-react-demo/public/locales/en/translation.json
+    translation: /crowdin-react-demo/public/locales/%two_letters_code%/translation.json
