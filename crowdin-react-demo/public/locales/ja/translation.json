@@ -1,29 +1,29 @@
 {
-  "app_title": "Crowdin Demo App",
-  "welcome": "Welcome to our application!",
-  "description": "This is a simple React app to test Crowdin integration with GitHub.",
-  "language_selector": "Select Language:",
+  "app_title": "Crowdin デモアプリ",
+  "welcome": "アプリケーションへようこそ！",
+  "description": "Crowdin と GitHub の統合をテストするシンプルな React アプリケーションです。",
+  "language_selector": "言語を選択:",
   "features": {
-    "title": "Features",
-    "sync": "Automatic translation synchronization",
-    "realtime": "Real-time language switching",
-    "integration": "GitHub integration for continuous localization"
+    "title": "特徴",
+    "sync": "自動翻訳同期",
+    "realtime": "リアルタイム言語の切り替え",
+    "integration": "継続的なローカライズのための GitHub 統合"
   },
   "buttons": {
-    "get_started": "Get Started",
-    "learn_more": "Learn More"
+    "get_started": "はじめよう",
+    "learn_more": "もっと詳しく"
   },
   "form": {
-    "title": "Contact Form",
-    "name": "Name",
-    "name_placeholder": "Enter your name",
-    "email": "Email",
-    "email_placeholder": "Enter your email",
-    "message": "Message",
-    "message_placeholder": "Type your message here",
-    "submit": "Submit"
+    "title": "お問い合わせフォーム",
+    "name": "名前",
+    "name_placeholder": "名前を入力してください",
+    "email": "Eメールアドレス",
+    "email_placeholder": "メールアドレスを入力してください",
+    "message": "メッセージ",
+    "message_placeholder": "ここにメッセージを入力してください",
+    "submit": "送信"
   },
-  "footer": "© 2024 Crowdin Demo App. All rights reserved.",
-  "new_text": "new text"
+  "footer": "©️ 2024 Crowdinデモアプリ. All rights reserved.",
+  "new_text": "新しいテキスト"
 }
 
